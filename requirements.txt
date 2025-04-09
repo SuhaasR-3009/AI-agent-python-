@@ -3,3 +3,4 @@ scholarly
 python-dotenv
 streamlit
 streamlit-chat
+groq
