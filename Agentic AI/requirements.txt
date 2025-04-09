@@ -1,5 +1,0 @@
-autogen
-scholarly
-python-dotenv
-streamlit
-streamlit-chat
